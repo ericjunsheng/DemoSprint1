@@ -10,6 +10,7 @@ namespace TestGitHub
             Console.WriteLine("Hello World! "+ site);
             Console.WriteLine("This is a test!");
             Console.WriteLine("It is added from visual studio!");
+            Console.WriteLine("It is added from github!");
         }
     }
 }
