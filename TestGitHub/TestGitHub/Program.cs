@@ -9,6 +9,7 @@ namespace TestGitHub
             string site = "gitHub";
             Console.WriteLine("Hello World! "+ site);
             Console.WriteLine("This is a test!");
+            Console.WriteLine("It is added from github!");
         }
     }
 }
