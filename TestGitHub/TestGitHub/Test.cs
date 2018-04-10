@@ -6,6 +6,8 @@ namespace TestGitHub
 {
     class Test
     {
-        double a=5.0;
+        // add new variables
+        int a = 1;
+        string b = "test";
     }
 }
