@@ -6,5 +6,6 @@ namespace TestGitHub
 {
     class Test
     {
+        double a=5.0;
     }
 }
